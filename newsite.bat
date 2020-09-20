@@ -28,10 +28,10 @@ REM go into the css folder
 cd css
 
 REM make a blank template for css
-echo > styles.css
+echo >> styles.css
 
 REM go into the scrips directory
 cd ../scripts
 
 REM make a new script template file
-echo > script.js
+echo >> script.js
